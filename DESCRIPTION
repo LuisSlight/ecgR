@@ -1,0 +1,14 @@
+Package: ecgR
+Title: ECG Signal Analysis and Visualization
+Version: 0.0.0.9000
+Authors@R: person("Your Name", email = "your@email.com", role = c("aut", "cre"))
+Description: Tools for reading, processing, and visualizing electrocardiogram
+    (ECG) data from MIT-BIH format files. Provides functions for R-peak
+    detection, heart rate variability analysis, and interactive waveform
+    visualization.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
+Imports:
+    reticulate

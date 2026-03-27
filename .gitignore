@@ -1,0 +1,24 @@
+# R history / session
+.Rhistory
+.RData
+.Ruserdata
+
+# RStudio
+.Rproj.user/
+
+# Package build artifacts
+*.tar.gz
+*.Rcheck/
+
+# OS / misc
+.DS_Store
+Thumbs.db
+
+# Local data / large files
+*.rds
+*.RDS
+*.rda
+*.RData
+
+# Optional: logs
+*.log
