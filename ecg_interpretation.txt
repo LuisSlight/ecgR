@@ -1,0 +1,18 @@
+HRV Interpretation
+------------------
+Resting heart rate is 73.9 bpm, which is within the normal range (60–100 bpm). 
+Overall HRV (SDNN: 37.66 ms) is slightly below the range typically seen in healthy adults (>50 ms). This may reflect mild stress, fatigue, or reduced recovery. 
+Short-term HRV (RMSSD: 55.17 ms) looks healthy, reflecting active parasympathetic regulation. 
+1 atrial premature beat(s) were detected. Occasional premature beats are common and usually benign in otherwise healthy individuals. 
+
+ECG Feature Interpretation
+--------------------------
+Overall, this ECG segment shows some deviations from the typical pattern and should be interpreted with caution. 
+
+Details:
+- Resting heart rate is 73.9 bpm, which is within the normal resting range.
+- Overall HRV (SDNN: 37.7 ms) appears somewhat reduced.
+- Short-term HRV (RMSSD: 55.2 ms) reflects parasympathetic regulation.
+- Estimated QRS morphology appears stable across detected beats.
+- No significant irregular beats were detected in this short ECG segment (97.3% normal beats).
+- Signal quality appears good, so feature estimates are likely reliable.

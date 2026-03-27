@@ -1,3 +1,8 @@
+#' Interpret extracted ECG features
+#'
+#' @param features A list returned by extract_ecg_features()
+#' @return A structured interpretation of the ECG features
+#' @export
 interpret_ecg_features <- function(features) {
 
   hr <- features$rate_rhythm$mean_hr
